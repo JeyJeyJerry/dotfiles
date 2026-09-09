@@ -1,3 +1,3 @@
 # Yazi
 
-![Alt text](screenshots/yazi.png)
+![Alt text](/screenshots/yazi.png)
