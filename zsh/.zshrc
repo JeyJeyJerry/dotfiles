@@ -1,3 +1,7 @@
+# ---------- Fastfetch ----------
+
+fastfetch
+
 # ---------- History ----------
 
 HISTFILE="$XDG_STATE_HOME/zsh/history"
